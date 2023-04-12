@@ -15,7 +15,7 @@ class UrlShortenerWindow:
         # Program title
         self.root.title("URL Shortener")
         # Program icon
-        self.root.iconbitmap('icon.ico')
+        self.root.iconbitmap('icon.png')
         # Program window size
         self.root.geometry("550x300")
         # Program no resize
